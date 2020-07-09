@@ -4,7 +4,6 @@ import requests
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
 import dateutil.parser
-import datetime
 
 python_version_pep = {
     '3.5': 'pep-0478',
@@ -24,12 +23,11 @@ for version, pep in python_version_pep.items():
     for item in soup.find("div", {"id": "release-schedule"}).find_all("li"):
         e = Event()
         try:
-            e.name = item.text.split(':')[0]
-            start_date = dateutil.parser.parse(item.text.split(':')[1])
-            e.begin = start_date
-            e.end = start_date + datetime.timedelta(days=1)
+            e.name, start_date = item.text.split(':')
+            e.begin = dateutil.parser.parse(start_date)
+            e.make_all_day()
             c.events.add(e)
-        except:
+        except Exception:
             pass
 
 with open('python-releases.ics', 'w') as my_file:
