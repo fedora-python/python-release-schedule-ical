@@ -26,14 +26,15 @@ c = Calendar()
 
 
 for version, pep in python_version_pep.items():
-    r = requests.get(pep_url + pep)
+    url = pep_url + pep
+    r = requests.get(url)
     soup = BeautifulSoup(r.text, 'lxml')
     for item in soup.find("div", {"id": "release-schedule"}).find_all("li"):
         try:
             name, start_date = item.text.split(':')
             if not name.startswith('Python '):
                 name = f'Python {name}'
-            e = Event(name=name, uid=uid(name))
+            e = Event(name=name, uid=uid(name), url=url)
             e.begin = dateutil.parser.parse(start_date)
             e.make_all_day()
             c.events.add(e)
