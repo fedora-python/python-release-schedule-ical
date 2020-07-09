@@ -31,6 +31,8 @@ for version, pep in python_version_pep.items():
     for item in soup.find("div", {"id": "release-schedule"}).find_all("li"):
         try:
             name, start_date = item.text.split(':')
+            if not name.startswith('Python '):
+                name = f'Python {name}'
             e = Event(name=name, uid=uid(name))
             e.begin = dateutil.parser.parse(start_date)
             e.make_all_day()
