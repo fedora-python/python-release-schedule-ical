@@ -27,7 +27,7 @@ for version, pep in python_version_pep.items():
             e.name = item.text.split(':')[0]
             start_date = dateutil.parser.parse(item.text.split(':')[1])
             e.begin = start_date
-            e.end = start_date + datetime.timedelta(days=3)
+            e.end = start_date + datetime.timedelta(days=1)
             c.events.add(e)
         except:
             pass
