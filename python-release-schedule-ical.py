@@ -1,10 +1,10 @@
 #!/bin/python3
 
+import re
 import requests
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
 import dateutil.parser
-import datetime
 
 python_version_pep = {
     '3.5': 'pep-0478',
@@ -16,20 +16,26 @@ python_version_pep = {
 
 pep_url = 'https://www.python.org/dev/peps/'
 
+
+def uid(name):
+    user = re.sub(r'[^a-z0-9\.]+', '', name.lower())
+    return f'{user}@python.org'
+
+
 c = Calendar()
+
 
 for version, pep in python_version_pep.items():
     r = requests.get(pep_url + pep)
     soup = BeautifulSoup(r.text, 'lxml')
     for item in soup.find("div", {"id": "release-schedule"}).find_all("li"):
-        e = Event()
         try:
-            e.name = item.text.split(':')[0]
-            start_date = dateutil.parser.parse(item.text.split(':')[1])
-            e.begin = start_date
-            e.end = start_date + datetime.timedelta(days=1)
+            name, start_date = item.text.split(':')
+            e = Event(name=name, uid=uid(name))
+            e.begin = dateutil.parser.parse(start_date)
+            e.make_all_day()
             c.events.add(e)
-        except:
+        except Exception:
             pass
 
 with open('python-releases.ics', 'w') as my_file:
