@@ -1,5 +1,6 @@
 #!/bin/python3
 
+import re
 import requests
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
@@ -15,15 +16,22 @@ python_version_pep = {
 
 pep_url = 'https://www.python.org/dev/peps/'
 
+
+def uid(name):
+    user = re.sub(r'[^a-z0-9\.]+', '', name.lower())
+    return f'{user}@python.org'
+
+
 c = Calendar()
+
 
 for version, pep in python_version_pep.items():
     r = requests.get(pep_url + pep)
     soup = BeautifulSoup(r.text, 'lxml')
     for item in soup.find("div", {"id": "release-schedule"}).find_all("li"):
-        e = Event()
         try:
-            e.name, start_date = item.text.split(':')
+            name, start_date = item.text.split(':')
+            e = Event(name=name, uid=uid(name))
             e.begin = dateutil.parser.parse(start_date)
             e.make_all_day()
             c.events.add(e)
