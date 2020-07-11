@@ -2,6 +2,7 @@
 
 import re
 import requests
+import sys
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
 import dateutil.parser
@@ -31,7 +32,7 @@ for version, pep in python_version_pep.items():
     soup = BeautifulSoup(r.text, 'lxml')
     for item in soup.find("div", {"id": "release-schedule"}).find_all("li"):
         try:
-            name, start_date = item.text.split(':')
+            name, start_date = item.text.splitlines()[0].split(':')
             if not name.startswith('Python '):
                 name = f'Python {name}'
             e = Event(name=name, uid=uid(name), url=url)
@@ -39,7 +40,7 @@ for version, pep in python_version_pep.items():
             e.make_all_day()
             c.events.add(e)
         except Exception:
-            pass
+            print(f'Warning: Cannot parse {item.text!r}', file=sys.stderr)
 
 with open('python-releases.ics', 'w') as my_file:
     my_file.writelines(c)
