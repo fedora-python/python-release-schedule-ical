@@ -1,6 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+X-WR-CALNAME:Python releases schedule
+X-WR-CALDESC:Python releases schedule parsed from https://www.python.org/dev/peps/
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150329
 SUMMARY:Python 3.5.0 alpha 3
