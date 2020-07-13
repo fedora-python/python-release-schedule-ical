@@ -16,7 +16,7 @@ python_version_pep = {
 }
 
 pep_url = 'https://www.python.org/dev/peps/'
-
+calendar_filename = 'python-releases.ics'
 
 def uid(name):
     user = re.sub(r'[^a-z0-9\.]+', '', name.lower())
@@ -24,7 +24,6 @@ def uid(name):
 
 
 c = Calendar()
-
 
 for version, pep in python_version_pep.items():
     url = pep_url + pep
@@ -42,5 +41,10 @@ for version, pep in python_version_pep.items():
         except Exception:
             print(f'Warning: Cannot parse {item.text!r}', file=sys.stderr)
 
-with open('python-releases.ics', 'w') as my_file:
-    my_file.writelines(c)
+with open(calendar_filename, 'w') as write_file:
+    for line in c:
+        write_file.write(line)
+        if 'PRODID' in line:
+            write_file.write("X-WR-CALNAME:Python releases schedule\n")
+            write_file.write("X-WR-CALDESC:Python releases schedule parsed from https://www.python.org/dev/peps/\n")
+
