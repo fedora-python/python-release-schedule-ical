@@ -1,0 +1,26 @@
+name: Update calendar
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    name: Update calendar
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        repository: fedora-python/python-release-schedule-ical
+    - uses: actions/setup-python@v1
+    - uses: dschep/install-pipenv-action@v1
+    - name: Install dependencies
+      run: pipenv install
+    - name: Run script
+      run: pipenv run python python-release-schedule-ical.py
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Auto commit - Calendar was updated
+
