@@ -214,7 +214,7 @@ UID:python3.5.1final@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201116
+DTSTART;VALUE=DATE:20200914
 SUMMARY:Python 3.8.6
 UID:python3.8.6@python.org
 URL:https://www.python.org/dev/peps/pep-0569
@@ -286,7 +286,7 @@ UID:python3.6.0beta2@python.org
 URL:https://www.python.org/dev/peps/pep-0494
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201102
+DTSTART;VALUE=DATE:20200831
 SUMMARY:Python 3.8.6rc1
 UID:python3.8.6rc1@python.org
 URL:https://www.python.org/dev/peps/pep-0569
@@ -466,6 +466,12 @@ UID:python3.5.10final@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201116
+SUMMARY:Python 3.8.7
+UID:python3.8.7@python.org
+URL:https://www.python.org/dev/peps/pep-0569
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190702
 SUMMARY:Python 3.6.9 final
 UID:python3.6.9final@python.org
@@ -559,12 +565,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190506
 SUMMARY:Python 3.8.0 alpha 4
 UID:python3.8.0alpha4@python.org
-URL:https://www.python.org/dev/peps/pep-0569
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200831
-SUMMARY:Python 3.8.5rc1
-UID:python3.8.5rc1@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
@@ -760,12 +760,6 @@ UID:python3.6.0beta4@python.org
 URL:https://www.python.org/dev/peps/pep-0494
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200914
-SUMMARY:Python 3.8.5
-UID:python3.8.5@python.org
-URL:https://www.python.org/dev/peps/pep-0569
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150825
 SUMMARY:Python 3.5.0 release candidate 2
 UID:python3.5.0releasecandidate2@python.org
@@ -806,6 +800,12 @@ DTSTART;VALUE=DATE:20170102
 SUMMARY:Python 3.5.3 candidate 1
 UID:python3.5.3candidate1@python.org
 URL:https://www.python.org/dev/peps/pep-0478
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201102
+SUMMARY:Python 3.8.7rc1
+UID:python3.8.7rc1@python.org
+URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200630
