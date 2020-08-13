@@ -13,6 +13,7 @@ python_version_pep = {
     '3.7': 'pep-0537',
     '3.8': 'pep-0569',
     '3.9': 'pep-0596',
+    '3.10': 'pep-0619',
 }
 
 pep_url = 'https://www.python.org/dev/peps/'
@@ -32,6 +33,9 @@ for version, pep in python_version_pep.items():
     for item in soup.find("div", {"id": "release-schedule"}).find_all("li"):
         try:
             name, start_date = item.text.splitlines()[0].split(':')
+            if ' (' in start_date:  # 2020-08-14 (expected)
+                start_date, _, note = start_date.partition(' (')
+                name = f'{name} ({note}'
             if not name.startswith('Python '):
                 name = f'Python {name}'
             e = Event(name=name, uid=uid(name), url=url)
