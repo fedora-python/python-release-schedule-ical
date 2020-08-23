@@ -22,7 +22,7 @@ UID:python3.6.2candidate2@python.org
 URL:https://www.python.org/dev/peps/pep-0494
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200628
+DTSTART;VALUE=DATE:20200821
 SUMMARY:Python 3.5.10 rc1
 UID:python3.5.10rc1@python.org
 URL:https://www.python.org/dev/peps/pep-0478
@@ -514,7 +514,7 @@ UID:python3.5.0beta2@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200712
+DTSTART;VALUE=DATE:20200904
 SUMMARY:Python 3.5.10 final
 UID:python3.5.10final@python.org
 URL:https://www.python.org/dev/peps/pep-0478
