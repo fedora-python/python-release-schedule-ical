@@ -19,7 +19,7 @@ jobs:
     - name: Install dependencies
       run: pipenv install
     - name: Run script
-      run: pipenv run python python-release-schedule-ical.py
+      run: pipenv run update-calendar
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Auto commit - Calendar was updated
