@@ -232,7 +232,7 @@ UID:python3.5.1final@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200914
+DTSTART;VALUE=DATE:20200921
 SUMMARY:Python 3.8.6
 UID:python3.8.6@python.org
 URL:https://www.python.org/dev/peps/pep-0569
@@ -316,7 +316,7 @@ UID:python3.6.0beta2@python.org
 URL:https://www.python.org/dev/peps/pep-0494
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200831
+DTSTART;VALUE=DATE:20200908
 SUMMARY:Python 3.8.6rc1
 UID:python3.8.6rc1@python.org
 URL:https://www.python.org/dev/peps/pep-0569
