@@ -14,7 +14,9 @@ jobs:
     - uses: actions/checkout@v2
       with:
         repository: fedora-python/python-release-schedule-ical
-    - uses: actions/setup-python@v1
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
     - uses: dschep/install-pipenv-action@v1
     - name: Install dependencies
       run: pipenv install
