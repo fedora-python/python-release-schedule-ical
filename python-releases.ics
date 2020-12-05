@@ -940,7 +940,7 @@ UID:python3.6.4final@python.org
 URL:https://www.python.org/dev/peps/pep-0494
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201102
+DTSTART;VALUE=DATE:20201103
 SUMMARY:Python 3.10.0 alpha 2
 UID:python3.10.0alpha2@python.org
 URL:https://www.python.org/dev/peps/pep-0619
