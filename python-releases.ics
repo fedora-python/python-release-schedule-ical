@@ -520,7 +520,7 @@ UID:python3.5.10final@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201214
+DTSTART;VALUE=DATE:20201221
 SUMMARY:Python 3.8.7
 UID:python3.8.7@python.org
 URL:https://www.python.org/dev/peps/pep-0569
@@ -952,7 +952,7 @@ UID:python3.5.3candidate1@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201130
+DTSTART;VALUE=DATE:20201207
 SUMMARY:Python 3.8.7rc1
 UID:python3.8.7rc1@python.org
 URL:https://www.python.org/dev/peps/pep-0569
