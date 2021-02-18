@@ -70,7 +70,7 @@ UID:python3.8.0alpha2@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210419
+DTSTART;VALUE=DATE:20210503
 SUMMARY:Python 3.9.3 final
 UID:python3.9.3final@python.org
 URL:https://www.python.org/dev/peps/pep-0596
@@ -130,7 +130,7 @@ UID:python3.7.0beta2@python.org
 URL:https://www.python.org/dev/peps/pep-0537
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210419
+DTSTART;VALUE=DATE:20210503
 SUMMARY:Python 3.8.9
 UID:python3.8.9@python.org
 URL:https://www.python.org/dev/peps/pep-0569
@@ -310,7 +310,7 @@ UID:python3.7.0alpha1@python.org
 URL:https://www.python.org/dev/peps/pep-0537
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210405
+DTSTART;VALUE=DATE:20210419
 SUMMARY:Python 3.8.9rc1
 UID:python3.8.9rc1@python.org
 URL:https://www.python.org/dev/peps/pep-0569
@@ -640,7 +640,7 @@ UID:python3.9.0beta5@python.org
 URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210201
+DTSTART;VALUE=DATE:20210216
 SUMMARY:Python 3.8.8rc1
 UID:python3.8.8rc1@python.org
 URL:https://www.python.org/dev/peps/pep-0569
@@ -748,13 +748,13 @@ UID:python3.8.0alpha1@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210215
+DTSTART;VALUE=DATE:20210301
 SUMMARY:Python 3.9.2 final
 UID:python3.9.2final@python.org
 URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210405
+DTSTART;VALUE=DATE:20210419
 SUMMARY:Python 3.9.3 candidate 1
 UID:python3.9.3candidate1@python.org
 URL:https://www.python.org/dev/peps/pep-0596
@@ -802,7 +802,7 @@ UID:python3.5.0beta3@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210201
+DTSTART;VALUE=DATE:20210216
 SUMMARY:Python 3.9.2 candidate 1
 UID:python3.9.2candidate1@python.org
 URL:https://www.python.org/dev/peps/pep-0596
@@ -826,7 +826,7 @@ UID:python3.7.0beta1@python.org
 URL:https://www.python.org/dev/peps/pep-0537
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210215
+DTSTART;VALUE=DATE:20210301
 SUMMARY:Python 3.8.8
 UID:python3.8.8@python.org
 URL:https://www.python.org/dev/peps/pep-0569
