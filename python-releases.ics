@@ -70,9 +70,9 @@ UID:python3.8.0alpha2@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210503
-SUMMARY:Python 3.9.3 final
-UID:python3.9.3final@python.org
+DTSTART;VALUE=DATE:20210628
+SUMMARY:Python 3.9.4
+UID:python3.9.4@python.org
 URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
@@ -268,6 +268,12 @@ UID:python3.7.6candidate1@python.org
 URL:https://www.python.org/dev/peps/pep-0537
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220228
+SUMMARY:Python 3.9.8
+UID:python3.9.8@python.org
+URL:https://www.python.org/dev/peps/pep-0596
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210906
 SUMMARY:Python 3.10.0 candidate 2 (if necessary)
 UID:python3.10.0candidate2ifnecessary@python.org
@@ -308,12 +314,6 @@ DTSTART;VALUE=DATE:20170919
 SUMMARY:Python 3.7.0 alpha 1
 UID:python3.7.0alpha1@python.org
 URL:https://www.python.org/dev/peps/pep-0537
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210419
-SUMMARY:Python 3.8.9rc1
-UID:python3.8.9rc1@python.org
-URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161010
@@ -386,6 +386,12 @@ DTSTART;VALUE=DATE:20190325
 SUMMARY:Python 3.8.0 alpha 3
 UID:python3.8.0alpha3@python.org
 URL:https://www.python.org/dev/peps/pep-0569
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210830
+SUMMARY:Python 3.9.5
+UID:python3.9.5@python.org
+URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190604
@@ -562,6 +568,12 @@ UID:python3.5.2final@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220502
+SUMMARY:Python 3.9.9
+UID:python3.9.9@python.org
+URL:https://www.python.org/dev/peps/pep-0596
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210104
 SUMMARY:Python 3.10.0 alpha 4
 UID:python3.10.0alpha4@python.org
@@ -670,6 +682,12 @@ UID:python3.8.2rc1@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211101
+SUMMARY:Python 3.9.6
+UID:python3.9.6@python.org
+URL:https://www.python.org/dev/peps/pep-0596
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201005
 SUMMARY:Python 3.10.0 alpha 1
 UID:python3.10.0alpha1@python.org
@@ -748,15 +766,15 @@ UID:python3.8.0alpha1@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210301
-SUMMARY:Python 3.9.2 final
-UID:python3.9.2final@python.org
+DTSTART;VALUE=DATE:20210503
+SUMMARY:Python 3.9.3
+UID:python3.9.3@python.org
 URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210419
-SUMMARY:Python 3.9.3 candidate 1
-UID:python3.9.3candidate1@python.org
+DTSTART;VALUE=DATE:20210219
+SUMMARY:Python 3.9.2 final
+UID:python3.9.2final@python.org
 URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
@@ -826,7 +844,7 @@ UID:python3.7.0beta1@python.org
 URL:https://www.python.org/dev/peps/pep-0537
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210301
+DTSTART;VALUE=DATE:20210219
 SUMMARY:Python 3.8.8
 UID:python3.8.8@python.org
 URL:https://www.python.org/dev/peps/pep-0569
@@ -956,6 +974,12 @@ DTSTART;VALUE=DATE:20200217
 SUMMARY:Python 3.8.2rc2
 UID:python3.8.2rc2@python.org
 URL:https://www.python.org/dev/peps/pep-0569
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220103
+SUMMARY:Python 3.9.7
+UID:python3.9.7@python.org
+URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20171219
