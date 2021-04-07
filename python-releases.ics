@@ -508,7 +508,7 @@ UID:python3.5.5final@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210405
+DTSTART;VALUE=DATE:20210406
 SUMMARY:Python 3.10.0 alpha 7
 UID:python3.10.0alpha7@python.org
 URL:https://www.python.org/dev/peps/pep-0619
