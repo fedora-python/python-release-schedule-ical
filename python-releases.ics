@@ -94,7 +94,7 @@ UID:python3.6.0candidate2@python.org
 URL:https://www.python.org/dev/peps/pep-0494
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210525
+DTSTART;VALUE=DATE:20210531
 SUMMARY:Python 3.10.0 beta 2
 UID:python3.10.0beta2@python.org
 URL:https://www.python.org/dev/peps/pep-0619
