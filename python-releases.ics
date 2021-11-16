@@ -316,12 +316,6 @@ UID:python3.9.3securityhotfixrecalledduetobpo43710@python.org
 URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211101
-SUMMARY:Python 3.9.8
-UID:python3.9.8@python.org
-URL:https://www.python.org/dev/peps/pep-0596
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200627
 SUMMARY:Python 3.6.11 final
 UID:python3.6.11final@python.org
@@ -332,6 +326,12 @@ DTSTART;VALUE=DATE:20201207
 SUMMARY:Python 3.10.0 alpha 3
 UID:python3.10.0alpha3@python.org
 URL:https://www.python.org/dev/peps/pep-0619
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220502
+SUMMARY:Python 3.9.12
+UID:python3.9.12@python.org
+URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180328
@@ -520,6 +520,12 @@ UID:python3.5.8final@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211105
+SUMMARY:Python 3.9.8 (recalled due to bpo-45235)
+UID:python3.9.8recalledduetobpo45235@python.org
+URL:https://www.python.org/dev/peps/pep-0596
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210215
 SUMMARY:Python 3.7.10 final
 UID:python3.7.10final@python.org
@@ -688,7 +694,7 @@ UID:python3.8.9securityhotfix@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220103
+DTSTART;VALUE=DATE:20211115
 SUMMARY:Python 3.9.9
 UID:python3.9.9@python.org
 URL:https://www.python.org/dev/peps/pep-0596
@@ -844,7 +850,7 @@ UID:python3.10.0alpha1@python.org
 URL:https://www.python.org/dev/peps/pep-0619
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220228
+DTSTART;VALUE=DATE:20220103
 SUMMARY:Python 3.9.10
 UID:python3.9.10@python.org
 URL:https://www.python.org/dev/peps/pep-0596
@@ -1192,7 +1198,7 @@ UID:python3.10.0alpha2@python.org
 URL:https://www.python.org/dev/peps/pep-0619
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220502
+DTSTART;VALUE=DATE:20220228
 SUMMARY:Python 3.9.11
 UID:python3.9.11@python.org
 URL:https://www.python.org/dev/peps/pep-0596
