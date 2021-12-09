@@ -922,7 +922,7 @@ UID:python3.8.1@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20211206
+DTSTART;VALUE=DATE:20211208
 SUMMARY:Python 3.11.0 alpha 3
 UID:python3.11.0alpha3@python.org
 URL:https://www.python.org/dev/peps/pep-0664
