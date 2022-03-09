@@ -784,7 +784,7 @@ UID:python3.8.4@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220228
+DTSTART;VALUE=DATE:20220307
 SUMMARY:Python 3.11.0 alpha 6
 UID:python3.11.0alpha6@python.org
 URL:https://www.python.org/dev/peps/pep-0664
