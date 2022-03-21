@@ -31,7 +31,7 @@ for version, pep in python_version_pep.items():
     url = pep_url + pep
     r = requests.get(url)
     soup = BeautifulSoup(r.text, 'lxml')
-    for item in soup.find("div", {"id": "release-schedule"}).find_all("li"):
+    for item in soup.find("section", {"id": "release-schedule"}).find_all("li"):
         try:
             name, start_date = item.text.splitlines()[0].split(':')
             if ' (' in start_date:  # 2020-08-14 (expected)
