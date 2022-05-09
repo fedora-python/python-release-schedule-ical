@@ -760,7 +760,7 @@ UID:python3.10.0candidate1@python.org
 URL:https://www.python.org/dev/peps/pep-0619
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220506
+DTSTART;VALUE=DATE:20220508
 SUMMARY:Python 3.11.0 beta 1
 UID:python3.11.0beta1@python.org
 URL:https://www.python.org/dev/peps/pep-0664
