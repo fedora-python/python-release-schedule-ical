@@ -52,7 +52,7 @@ UID:python3.7.0beta5@python.org
 URL:https://www.python.org/dev/peps/pep-0537
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220516
+DTSTART;VALUE=DATE:20220517
 SUMMARY:Python 3.9.13 (final regular bugfix release with binary
 UID:python3.9.13finalregularbugfixreleasewithbinary@python.org
 URL:https://www.python.org/dev/peps/pep-0596
