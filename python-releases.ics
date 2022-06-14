@@ -256,6 +256,12 @@ UID:python3.5.0beta1@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220601
+SUMMARY:Python 3.11.0 beta 3
+UID:python3.11.0beta3@python.org
+URL:https://www.python.org/dev/peps/pep-0664
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20181224
 SUMMARY:Python 3.6.8 final
 UID:python3.6.8final@python.org
