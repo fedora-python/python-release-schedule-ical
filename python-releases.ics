@@ -646,7 +646,7 @@ UID:python3.9.0alpha2@python.org
 URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220616
+DTSTART;VALUE=DATE:20220711
 SUMMARY:Python 3.11.0 beta 4
 UID:python3.11.0beta4@python.org
 URL:https://www.python.org/dev/peps/pep-0664
@@ -1006,7 +1006,7 @@ UID:python3.9.0alpha3@python.org
 URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220709
+DTSTART;VALUE=DATE:20220725
 SUMMARY:Python 3.11.0 beta 5
 UID:python3.11.0beta5@python.org
 URL:https://www.python.org/dev/peps/pep-0664
