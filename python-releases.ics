@@ -1006,7 +1006,7 @@ UID:python3.9.0alpha3@python.org
 URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220725
+DTSTART;VALUE=DATE:20220726
 SUMMARY:Python 3.11.0 beta 5
 UID:python3.11.0beta5@python.org
 URL:https://www.python.org/dev/peps/pep-0664
