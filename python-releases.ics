@@ -370,7 +370,7 @@ UID:python3.7.0alpha1@python.org
 URL:https://www.python.org/dev/peps/pep-0537
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220805
+DTSTART;VALUE=DATE:20220808
 SUMMARY:Python 3.11.0 candidate 1
 UID:python3.11.0candidate1@python.org
 URL:https://www.python.org/dev/peps/pep-0664
