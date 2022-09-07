@@ -262,6 +262,12 @@ UID:python3.11.0beta3@python.org
 URL:https://www.python.org/dev/peps/pep-0664
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220906
+SUMMARY:Python 3.8.14
+UID:python3.8.14@python.org
+URL:https://www.python.org/dev/peps/pep-0569
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20181224
 SUMMARY:Python 3.6.8 final
 UID:python3.6.8final@python.org
@@ -844,6 +850,12 @@ UID:python3.6.3final@python.org
 URL:https://www.python.org/dev/peps/pep-0494
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220906
+SUMMARY:Python 3.7.14 final
+UID:python3.7.14final@python.org
+URL:https://www.python.org/dev/peps/pep-0537
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190506
 SUMMARY:Python 3.8.0 alpha 4
 UID:python3.8.0alpha4@python.org
@@ -1094,6 +1106,12 @@ DTSTART;VALUE=DATE:20210203
 SUMMARY:Python 3.10.0 alpha 5
 UID:python3.10.0alpha5@python.org
 URL:https://www.python.org/dev/peps/pep-0619
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220906
+SUMMARY:Python 3.9.14
+UID:python3.9.14@python.org
+URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200811
