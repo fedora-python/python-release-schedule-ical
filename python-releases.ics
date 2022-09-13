@@ -382,7 +382,7 @@ UID:python3.11.0candidate1@python.org
 URL:https://www.python.org/dev/peps/pep-0664
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221003
+DTSTART;VALUE=DATE:20221024
 SUMMARY:Python 3.11.0 final
 UID:python3.11.0final@python.org
 URL:https://www.python.org/dev/peps/pep-0664
@@ -760,7 +760,7 @@ UID:python3.7.0alpha2@python.org
 URL:https://www.python.org/dev/peps/pep-0537
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220905
+DTSTART;VALUE=DATE:20220912
 SUMMARY:Python 3.11.0 candidate 2
 UID:python3.11.0candidate2@python.org
 URL:https://www.python.org/dev/peps/pep-0664
