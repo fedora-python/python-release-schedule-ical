@@ -238,6 +238,12 @@ UID:python3.8.5securityhotfix@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221011
+SUMMARY:Python 3.9.15
+UID:python3.9.15@python.org
+URL:https://www.python.org/dev/peps/pep-0596
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180926
 SUMMARY:Python 3.6.7 candidate
 UID:python3.6.7candidate@python.org
@@ -730,6 +736,12 @@ UID:python3.5.10final@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221011
+SUMMARY:Python 3.8.15
+UID:python3.8.15@python.org
+URL:https://www.python.org/dev/peps/pep-0569
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211206
 SUMMARY:Python 3.10.1
 UID:python3.10.1@python.org
@@ -850,7 +862,7 @@ UID:python3.8.12@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221003
+DTSTART;VALUE=DATE:20221011
 SUMMARY:Python 3.10.8
 UID:python3.10.8@python.org
 URL:https://www.python.org/dev/peps/pep-0619
