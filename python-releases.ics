@@ -730,7 +730,7 @@ UID:python3.10.0alpha7@python.org
 URL:https://www.python.org/dev/peps/pep-0619
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230109
+DTSTART;VALUE=DATE:20230110
 SUMMARY:Python 3.12.0 alpha 4
 UID:python3.12.0alpha4@python.org
 URL:https://www.python.org/dev/peps/pep-0693
