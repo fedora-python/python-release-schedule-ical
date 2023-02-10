@@ -358,13 +358,13 @@ UID:python3.6developmentbegins@python.org
 URL:https://www.python.org/dev/peps/pep-0494
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230206
+DTSTART;VALUE=DATE:20230208
 SUMMARY:Python 3.10.10
 UID:python3.10.10@python.org
 URL:https://www.python.org/dev/peps/pep-0619
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230206
+DTSTART;VALUE=DATE:20230208
 SUMMARY:Python 3.11.2
 UID:python3.11.2@python.org
 URL:https://www.python.org/dev/peps/pep-0664
@@ -1126,7 +1126,7 @@ UID:python3.9.2final@python.org
 URL:https://www.python.org/dev/peps/pep-0596
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230206
+DTSTART;VALUE=DATE:20230207
 SUMMARY:Python 3.12.0 alpha 5
 UID:python3.12.0alpha5@python.org
 URL:https://www.python.org/dev/peps/pep-0693
