@@ -874,6 +874,12 @@ UID:python3.6.6final@python.org
 URL:https://www.python.org/dev/peps/pep-0494
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230606
+SUMMARY:Python 3.7.17 final
+UID:python3.7.17final@python.org
+URL:https://www.python.org/dev/peps/pep-0537
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20170305
 SUMMARY:Python 3.6.1 candidate
 UID:python3.6.1candidate@python.org
