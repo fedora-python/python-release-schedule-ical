@@ -496,7 +496,7 @@ UID:python3.6.5candidate@python.org
 URL:https://www.python.org/dev/peps/pep-0494
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230710
+DTSTART;VALUE=DATE:20230711
 SUMMARY:Python 3.12.0 beta 4
 UID:python3.12.0beta4@python.org
 URL:https://www.python.org/dev/peps/pep-0693
