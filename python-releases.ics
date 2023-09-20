@@ -910,6 +910,12 @@ UID:python3.6.1candidate@python.org
 URL:https://www.python.org/dev/peps/pep-0494
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230919
+SUMMARY:Python 3.12.0 candidate 3
+UID:python3.12.0candidate3@python.org
+URL:https://www.python.org/dev/peps/pep-0693
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20171017
 SUMMARY:Python 3.7.0 alpha 2
 UID:python3.7.0alpha2@python.org
