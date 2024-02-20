@@ -106,7 +106,7 @@ UID:python3.5.2releasecandidate1@python.org
 URL:https://www.python.org/dev/peps/pep-0478
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240205
+DTSTART;VALUE=DATE:20240206
 SUMMARY:Python 3.11.8
 UID:python3.11.8@python.org
 URL:https://www.python.org/dev/peps/pep-0664
@@ -1528,7 +1528,7 @@ UID:python3.11.0alpha7@python.org
 URL:https://www.python.org/dev/peps/pep-0664
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240213
+DTSTART;VALUE=DATE:20240215
 SUMMARY:Python 3.13.0 alpha 4
 UID:python3.13.0alpha4@python.org
 URL:https://www.python.org/dev/peps/pep-0719
