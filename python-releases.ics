@@ -82,16 +82,22 @@ UID:python3.7.12final@python.org
 URL:https://www.python.org/dev/peps/pep-0537
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231013
-SUMMARY:Python 3.13.0 alpha 1
-UID:python3.13.0alpha1@python.org
-URL:https://www.python.org/dev/peps/pep-0719
+DTSTART;VALUE=DATE:20240402
+SUMMARY:Python 3.11.9 (final regular bugfix release with binary
+UID:python3.11.9finalregularbugfixreleasewithbinary@python.org
+URL:https://www.python.org/dev/peps/pep-0664
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220508
 SUMMARY:Python 3.12 development begins
 UID:python3.12developmentbegins@python.org
 URL:https://www.python.org/dev/peps/pep-0693
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231013
+SUMMARY:Python 3.13.0 alpha 1
+UID:python3.13.0alpha1@python.org
+URL:https://www.python.org/dev/peps/pep-0719
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200609
@@ -620,12 +626,6 @@ DTSTART;VALUE=DATE:20220316
 SUMMARY:Python 3.7.13 final
 UID:python3.7.13final@python.org
 URL:https://www.python.org/dev/peps/pep-0537
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240401
-SUMMARY:Python 3.11.9
-UID:python3.11.9@python.org
-URL:https://www.python.org/dev/peps/pep-0664
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190325
