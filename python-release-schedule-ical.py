@@ -17,9 +17,10 @@ python_version_pep = {
     '3.11': 'pep-0664',
     '3.12': 'pep-0693',
     '3.13': 'pep-0719',
+    '3.14': 'pep-0745',
 }
 
-pep_url = 'https://www.python.org/dev/peps/'
+pep_url = 'https://peps.python.org/'
 calendar_filename = 'python-releases.ics'
 
 def uid(name):
@@ -53,5 +54,5 @@ with open(calendar_filename, 'w') as write_file:
         write_file.write(line)
         if 'PRODID' in line:
             write_file.write("X-WR-CALNAME:Python releases schedule\n")
-            write_file.write("X-WR-CALDESC:Python releases schedule parsed from https://www.python.org/dev/peps/\n")
+            write_file.write("X-WR-CALDESC:Python releases schedule parsed from https://peps.python.org\n")
 
