@@ -376,7 +376,7 @@ UID:python3.7.7candidate1@python.org
 URL:https://www.python.org/dev/peps/pep-0537
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240507
+DTSTART;VALUE=DATE:20240508
 SUMMARY:Python 3.13.0 beta 1
 UID:python3.13.0beta1@python.org
 URL:https://www.python.org/dev/peps/pep-0719
