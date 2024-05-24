@@ -892,7 +892,7 @@ UID:python3.6.15final@python.org
 URL:https://www.python.org/dev/peps/pep-0494
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240528
+DTSTART;VALUE=DATE:20240604
 SUMMARY:Python 3.13.0 beta 2
 UID:python3.13.0beta2@python.org
 URL:https://www.python.org/dev/peps/pep-0719
@@ -1390,7 +1390,7 @@ UID:python3.8.8@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240618
+DTSTART;VALUE=DATE:20240625
 SUMMARY:Python 3.13.0 beta 3
 UID:python3.13.0beta3@python.org
 URL:https://www.python.org/dev/peps/pep-0719
