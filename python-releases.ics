@@ -1390,7 +1390,7 @@ UID:python3.8.8@python.org
 URL:https://www.python.org/dev/peps/pep-0569
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240625
+DTSTART;VALUE=DATE:20240627
 SUMMARY:Python 3.13.0 beta 3
 UID:python3.13.0beta3@python.org
 URL:https://www.python.org/dev/peps/pep-0719
