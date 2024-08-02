@@ -1222,7 +1222,7 @@ UID:python3.14.0candidate2@python.org
 URL:https://peps.python.org/pep-0745
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240730
+DTSTART;VALUE=DATE:20240801
 SUMMARY:Python 3.13.0 candidate 1
 UID:python3.13.0candidate1@python.org
 URL:https://peps.python.org/pep-0719
