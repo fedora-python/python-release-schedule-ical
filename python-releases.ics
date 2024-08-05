@@ -826,7 +826,7 @@ UID:python3.11.6@python.org
 URL:https://peps.python.org/pep-0664
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240507
+DTSTART;VALUE=DATE:20240508
 SUMMARY:Python 3.14 development begins
 UID:python3.14developmentbegins@python.org
 URL:https://peps.python.org/pep-0745
