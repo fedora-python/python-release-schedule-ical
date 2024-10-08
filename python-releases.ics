@@ -658,12 +658,6 @@ UID:python3.7.13final@python.org
 URL:https://peps.python.org/pep-0537
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240906
-SUMMARY:Python 3.8.20
-UID:python3.8.20@python.org
-URL:https://peps.python.org/pep-0569
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190325
 SUMMARY:Python 3.8.0 alpha 3
 UID:python3.8.0alpha3@python.org
@@ -860,6 +854,12 @@ DTSTART;VALUE=DATE:20190325
 SUMMARY:Python 3.7.3 final
 UID:python3.7.3final@python.org
 URL:https://peps.python.org/pep-0537
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240906
+SUMMARY:Python 3.8.20 (final security release)
+UID:python3.8.20finalsecurityrelease@python.org
+URL:https://peps.python.org/pep-0569
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180204
