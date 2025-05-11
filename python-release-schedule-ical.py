@@ -18,6 +18,7 @@ python_version_pep = {
     '3.12': 'pep-0693',
     '3.13': 'pep-0719',
     '3.14': 'pep-0745',
+    '3.15': 'pep-0790',
 }
 
 pep_url = 'https://peps.python.org/'
