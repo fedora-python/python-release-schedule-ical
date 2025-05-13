@@ -1,6 +1,9 @@
 name: Update calendar
 
 on:
+  push:
+  pull_request:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
 
@@ -22,7 +25,8 @@ jobs:
       run: pipenv install
     - name: Run script
       run: pipenv run update-calendar
-    - uses: stefanzweifel/git-auto-commit-action@v5
+    - if: github.event_name == 'schedule'
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: Auto commit - Calendar was updated
 
