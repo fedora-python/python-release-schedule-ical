@@ -1162,7 +1162,7 @@ UID:python3.11.0alpha5@python.org
 URL:https://peps.python.org/pep-0664
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250527
+DTSTART;VALUE=DATE:20250526
 SUMMARY:Python 3.14.0 beta 2
 UID:python3.14.0beta2@python.org
 URL:https://peps.python.org/pep-0745
