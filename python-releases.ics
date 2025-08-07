@@ -688,7 +688,7 @@ UID:python3.12.0beta4@python.org
 URL:https://peps.python.org/pep-0693
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250805
+DTSTART;VALUE=DATE:20250806
 SUMMARY:Python 3.13.6
 UID:python3.13.6@python.org
 URL:https://peps.python.org/pep-0719
