@@ -88,7 +88,7 @@ UID:python3.5.4final@python.org
 URL:https://peps.python.org/pep-0478
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250506
+DTSTART;VALUE=DATE:20250507
 SUMMARY:Python 3.15 development begins
 UID:python3.15developmentbegins@python.org
 URL:https://peps.python.org/pep-0790
