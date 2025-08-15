@@ -142,7 +142,7 @@ UID:python3.6.8final@python.org
 URL:https://peps.python.org/pep-0494
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260203
+DTSTART;VALUE=DATE:20251202
 SUMMARY:Python 3.13.9
 UID:python3.13.9@python.org
 URL:https://peps.python.org/pep-0719
@@ -316,7 +316,7 @@ UID:python3.7.0final@python.org
 URL:https://peps.python.org/pep-0537
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260609
+DTSTART;VALUE=DATE:20260407
 SUMMARY:Python 3.13.11
 UID:python3.13.11@python.org
 URL:https://peps.python.org/pep-0719
@@ -586,7 +586,7 @@ UID:python3.15.0beta2@python.org
 URL:https://peps.python.org/pep-0790
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261006
+DTSTART;VALUE=DATE:20260804
 SUMMARY:Python 3.13.13
 UID:python3.13.13@python.org
 URL:https://peps.python.org/pep-0719
@@ -1036,7 +1036,7 @@ UID:python3.10.9@python.org
 URL:https://peps.python.org/pep-0619
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251202
+DTSTART;VALUE=DATE:20251007
 SUMMARY:Python 3.13.8
 UID:python3.13.8@python.org
 URL:https://peps.python.org/pep-0719
@@ -1144,7 +1144,7 @@ UID:python3.8.6@python.org
 URL:https://peps.python.org/pep-0569
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260407
+DTSTART;VALUE=DATE:20260203
 SUMMARY:Python 3.13.10
 UID:python3.13.10@python.org
 URL:https://peps.python.org/pep-0719
@@ -1426,7 +1426,7 @@ UID:python3.15.0beta1@python.org
 URL:https://peps.python.org/pep-0790
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260804
+DTSTART;VALUE=DATE:20260609
 SUMMARY:Python 3.13.12
 UID:python3.13.12@python.org
 URL:https://peps.python.org/pep-0719
@@ -1810,6 +1810,12 @@ UID:python3.15.0beta3@python.org
 URL:https://peps.python.org/pep-0790
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261006
+SUMMARY:Python 3.13.14
+UID:python3.13.14@python.org
+URL:https://peps.python.org/pep-0719
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180926
 SUMMARY:Python 3.7.1 candidate 1
 UID:python3.7.1candidate1@python.org
@@ -1888,7 +1894,7 @@ UID:python3.10.8@python.org
 URL:https://peps.python.org/pep-0619
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251007
+DTSTART;VALUE=DATE:20250814
 SUMMARY:Python 3.13.7
 UID:python3.13.7@python.org
 URL:https://peps.python.org/pep-0719
