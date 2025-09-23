@@ -2014,7 +2014,7 @@ UID:python3.8.4rc1@python.org
 URL:https://peps.python.org/pep-0569
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250916
+DTSTART;VALUE=DATE:20250918
 SUMMARY:Python 3.14.0 candidate 3
 UID:python3.14.0candidate3@python.org
 URL:https://peps.python.org/pep-0745
