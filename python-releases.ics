@@ -310,6 +310,12 @@ UID:python3.8.15@python.org
 URL:https://peps.python.org/pep-0569
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+SUMMARY:Python 3.9.25
+UID:python3.9.25@python.org
+URL:https://peps.python.org/pep-0596
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201221
 SUMMARY:Python 3.8.7
 UID:python3.8.7@python.org
