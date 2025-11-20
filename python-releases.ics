@@ -652,7 +652,7 @@ UID:python3.13.0beta1@python.org
 URL:https://peps.python.org/pep-0719
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251118
+DTSTART;VALUE=DATE:20251119
 SUMMARY:Python 3.15.0 alpha 2
 UID:python3.15.0alpha2@python.org
 URL:https://peps.python.org/pep-0790
