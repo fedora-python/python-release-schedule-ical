@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
-X-WR-CALDESC:Python releases schedule from https://peps.python.org
-X-WR-CALNAME:Python releases schedule
+X-WR-CALDESC:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
+X-WR-CALNAME:DEPRECATED: Python releases schedule
 VERSION:2.0
 PRODID:-//Python Software Foundation//Python release schedule//EN
 CALSCALE:GEORGIAN

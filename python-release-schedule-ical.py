@@ -4,6 +4,8 @@ import re
 import requests
 from ics import Calendar
 
+DEPRECATION = 'DEPRECATED: Use https://peps.python.org/release-schedule.ics instead'
+
 calendar_filename = 'python-releases.ics'
 
 def uid(name):
@@ -17,8 +19,14 @@ r.raise_for_status()
 c = Calendar(r.text)
 
 for event in c.events:
-    event.description = 'DEPRECATED: Use https://peps.python.org/release-schedule.ics instead'
+    event.description = DEPRECATION
     event.uid = uid(event.name)
+
+for extra in c.extra:
+    if extra.name == 'X-WR-CALNAME':
+        extra.value = f'DEPRECATED: {extra.value}'
+    elif extra.name == 'X-WR-CALDESC':
+        extra.value = DEPRECATION
 
 with open(calendar_filename, 'w') as write_file:
     write_file.write(c.serialize())
