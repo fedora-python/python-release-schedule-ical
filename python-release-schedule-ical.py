@@ -1,4 +1,10 @@
 #!/bin/python3
+# /// script
+# dependencies = [
+#     "ics>=0.7",
+#     "requests>=2.22",
+# ]
+# ///
 
 import re
 import requests
