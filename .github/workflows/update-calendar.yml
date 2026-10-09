@@ -15,8 +15,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-      with:
-        repository: fedora-python/python-release-schedule-ical
     - uses: astral-sh/setup-uv@v5
       with:
         python-version: '3.14'
