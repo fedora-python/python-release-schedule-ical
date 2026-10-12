@@ -14,14 +14,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - uses: astral-sh/setup-uv@v5
+    - uses: actions/checkout@v7
+    - uses: astral-sh/setup-uv@v7
       with:
         python-version: '3.14'
     - name: Run script
       run: uv run python-release-schedule-ical.py
     - if: github.event_name == 'schedule'
-      uses: stefanzweifel/git-auto-commit-action@v5
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Auto commit - Calendar was updated
 
