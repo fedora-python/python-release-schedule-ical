@@ -25,8 +25,9 @@ r.raise_for_status()
 c = Calendar(r.text)
 
 for event in c.events:
-    event.description = DEPRECATION
     event.uid = uid(event.name)
+    event.description = DEPRECATION
+    event.name = f'{event.name} (this calendar URL is deprecated)'
 
 for extra in c.extra:
     if extra.name == 'X-WR-CALNAME':

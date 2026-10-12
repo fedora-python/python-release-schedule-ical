@@ -6,2321 +6,2313 @@ PRODID:-//Python Software Foundation//Python release schedule//EN
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191119
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 alpha 1
+SUMMARY:Python 3.9.0 alpha 1 (this calendar URL is deprecated)
 UID:python3.9.0alpha1@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230824
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.5
+SUMMARY:Python 3.11.5 (this calendar URL is deprecated)
 UID:python3.11.5@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221011
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.15 final
+SUMMARY:Python 3.8.15 final (this calendar URL is deprecated)
 UID:python3.8.15final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.10
+SUMMARY:Python 3.13.10 (this calendar URL is deprecated)
 UID:python3.13.10@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240627
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 beta 3
+SUMMARY:Python 3.13.0 beta 3 (this calendar URL is deprecated)
 UID:python3.13.0beta3@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.25 final
+SUMMARY:Python 3.9.25 final (this calendar URL is deprecated)
 UID:python3.9.25final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210904
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.12 final
+SUMMARY:Python 3.7.12 final (this calendar URL is deprecated)
 UID:python3.7.12final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200924
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.6 final
+SUMMARY:Python 3.8.6 final (this calendar URL is deprecated)
 UID:python3.8.6final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270209
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 alpha 5
+SUMMARY:Python 3.16.0 alpha 5 (this calendar URL is deprecated)
 UID:python3.16.0alpha5@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210503
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 beta 1
+SUMMARY:Python 3.10.0 beta 1 (this calendar URL is deprecated)
 UID:python3.10.0beta1@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260812
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.14
+SUMMARY:Python 3.12.14 (this calendar URL is deprecated)
 UID:python3.12.14@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191211
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.6 candidate 1
+SUMMARY:Python 3.7.6 candidate 1 (this calendar URL is deprecated)
 UID:python3.7.6candidate1@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250806
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.6
+SUMMARY:Python 3.13.6 (this calendar URL is deprecated)
 UID:python3.13.6@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240117
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 alpha 3
+SUMMARY:Python 3.13.0 alpha 3 (this calendar URL is deprecated)
 UID:python3.13.0alpha3@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210219
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.2 final
+SUMMARY:Python 3.9.2 final (this calendar URL is deprecated)
 UID:python3.9.2final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201005
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 alpha 1
+SUMMARY:Python 3.10.0 alpha 1 (this calendar URL is deprecated)
 UID:python3.10.0alpha1@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230404
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 alpha 7
+SUMMARY:Python 3.12.0 alpha 7 (this calendar URL is deprecated)
 UID:python3.12.0alpha7@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 candidate 3
+SUMMARY:Python 3.15.0 candidate 3 (this calendar URL is deprecated)
 UID:python3.15.0candidate3@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230606
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.4
+SUMMARY:Python 3.11.4 (this calendar URL is deprecated)
 UID:python3.11.4@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270713
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 beta 4
+SUMMARY:Python 3.16.0 beta 4 (this calendar URL is deprecated)
 UID:python3.16.0beta4@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240319
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.19 final
+SUMMARY:Python 3.9.19 final (this calendar URL is deprecated)
 UID:python3.9.19final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240605
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 beta 2
+SUMMARY:Python 3.13.0 beta 2 (this calendar URL is deprecated)
 UID:python3.13.0beta2@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191029
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.5.8 final
+SUMMARY:Python 3.5.8 final (this calendar URL is deprecated)
 UID:python3.5.8final@python.org
 URL:https://peps.python.org/pep-0478/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221206
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.16 final
+SUMMARY:Python 3.8.16 final (this calendar URL is deprecated)
 UID:python3.8.16final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270112
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 alpha 4
+SUMMARY:Python 3.16.0 alpha 4 (this calendar URL is deprecated)
 UID:python3.16.0alpha4@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.13
+SUMMARY:Python 3.12.13 (this calendar URL is deprecated)
 UID:python3.12.13@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250611
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.5
+SUMMARY:Python 3.13.5 (this calendar URL is deprecated)
 UID:python3.13.5@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231122
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 alpha 2
+SUMMARY:Python 3.13.0 alpha 2 (this calendar URL is deprecated)
 UID:python3.13.0alpha2@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260407
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 alpha 8
+SUMMARY:Python 3.15.0 alpha 8 (this calendar URL is deprecated)
 UID:python3.15.0alpha8@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230919
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 candidate 3
+SUMMARY:Python 3.12.0 candidate 3 (this calendar URL is deprecated)
 UID:python3.12.0candidate3@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220316
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.13 final
+SUMMARY:Python 3.7.13 final (this calendar URL is deprecated)
 UID:python3.7.13final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201221
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.7 final
+SUMMARY:Python 3.8.7 final (this calendar URL is deprecated)
 UID:python3.8.7final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200304
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.7 candidate 1
+SUMMARY:Python 3.7.7 candidate 1 (this calendar URL is deprecated)
 UID:python3.7.7candidate1@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230307
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 alpha 6
+SUMMARY:Python 3.12.0 alpha 6 (this calendar URL is deprecated)
 UID:python3.12.0alpha6@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.17
+SUMMARY:Python 3.11.17 (this calendar URL is deprecated)
 UID:python3.11.17@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260901
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 candidate 2
+SUMMARY:Python 3.15.0 candidate 2 (this calendar URL is deprecated)
 UID:python3.15.0candidate2@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230405
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.3
+SUMMARY:Python 3.11.3 (this calendar URL is deprecated)
 UID:python3.11.3@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220726
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 beta 5
+SUMMARY:Python 3.11.0 beta 5 (this calendar URL is deprecated)
 UID:python3.11.0beta5@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210402
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.3 final
+SUMMARY:Python 3.9.3 final (this calendar URL is deprecated)
 UID:python3.9.3final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191218
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.6.10 final
+SUMMARY:Python 3.6.10 final (this calendar URL is deprecated)
 UID:python3.6.10final@python.org
 URL:https://peps.python.org/pep-0494/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270615
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 beta 3
+SUMMARY:Python 3.16.0 beta 3 (this calendar URL is deprecated)
 UID:python3.16.0beta3@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240508
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 beta 1
+SUMMARY:Python 3.13.0 beta 1 (this calendar URL is deprecated)
 UID:python3.13.0beta1@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231002
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 final
+SUMMARY:Python 3.12.0 final (this calendar URL is deprecated)
 UID:python3.12.0final@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221206
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.9
+SUMMARY:Python 3.10.9 (this calendar URL is deprecated)
 UID:python3.10.9@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261215
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 alpha 3
+SUMMARY:Python 3.16.0 alpha 3 (this calendar URL is deprecated)
 UID:python3.16.0alpha3@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.12
+SUMMARY:Python 3.12.12 (this calendar URL is deprecated)
 UID:python3.12.12@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191101
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.5.9 final
+SUMMARY:Python 3.5.9 final (this calendar URL is deprecated)
 UID:python3.5.9final@python.org
 URL:https://peps.python.org/pep-0478/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250603
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.4
+SUMMARY:Python 3.13.4 (this calendar URL is deprecated)
 UID:python3.13.4@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231013
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 alpha 1
+SUMMARY:Python 3.13.0 alpha 1 (this calendar URL is deprecated)
 UID:python3.13.0alpha1@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260310
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 alpha 7
+SUMMARY:Python 3.15.0 alpha 7 (this calendar URL is deprecated)
 UID:python3.15.0alpha7@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230906
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 candidate 2
+SUMMARY:Python 3.12.0 candidate 2 (this calendar URL is deprecated)
 UID:python3.12.0candidate2@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230606
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.17 final
+SUMMARY:Python 3.8.17 final (this calendar URL is deprecated)
 UID:python3.8.17final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230207
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 alpha 5
+SUMMARY:Python 3.12.0 alpha 5 (this calendar URL is deprecated)
 UID:python3.12.0alpha5@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260812
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.16
+SUMMARY:Python 3.11.16 (this calendar URL is deprecated)
 UID:python3.11.16@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260804
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 candidate 1
+SUMMARY:Python 3.15.0 candidate 1 (this calendar URL is deprecated)
 UID:python3.15.0candidate1@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230208
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.2
+SUMMARY:Python 3.11.2 (this calendar URL is deprecated)
 UID:python3.11.2@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220906
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.14 final
+SUMMARY:Python 3.7.14 final (this calendar URL is deprecated)
 UID:python3.7.14final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220711
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 beta 4
+SUMMARY:Python 3.11.0 beta 4 (this calendar URL is deprecated)
 UID:python3.11.0beta4@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200720
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 beta 5
+SUMMARY:Python 3.9.0 beta 5 (this calendar URL is deprecated)
 UID:python3.9.0beta5@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270525
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 beta 2
+SUMMARY:Python 3.16.0 beta 2 (this calendar URL is deprecated)
 UID:python3.16.0beta2@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210219
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.8 final
+SUMMARY:Python 3.8.8 final (this calendar URL is deprecated)
 UID:python3.8.8final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200615
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.8 candidate 1
+SUMMARY:Python 3.7.8 candidate 1 (this calendar URL is deprecated)
 UID:python3.7.8candidate1@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20191005
-DTSTAMP:20261003T181948Z
-DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 2.7.17 candidate 1
-UID:python2.7.17candidate1@python.org
-URL:https://peps.python.org/pep-0373/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210404
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.4 final
+SUMMARY:Python 3.9.4 final (this calendar URL is deprecated)
 UID:python3.9.4final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200627
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.6.11 final
+SUMMARY:Python 3.6.11 final (this calendar URL is deprecated)
 UID:python3.6.11final@python.org
 URL:https://peps.python.org/pep-0494/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221011
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.8
+SUMMARY:Python 3.10.8 (this calendar URL is deprecated)
 UID:python3.10.8@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261110
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 alpha 2
+SUMMARY:Python 3.16.0 alpha 2 (this calendar URL is deprecated)
 UID:python3.16.0alpha2@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250603
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.11
+SUMMARY:Python 3.12.11 (this calendar URL is deprecated)
 UID:python3.12.11@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191210
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.1 candidate 1
+SUMMARY:Python 3.8.1 candidate 1 (this calendar URL is deprecated)
 UID:python3.8.1candidate1@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.3
+SUMMARY:Python 3.13.3 (this calendar URL is deprecated)
 UID:python3.13.3@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 alpha 6
+SUMMARY:Python 3.15.0 alpha 6 (this calendar URL is deprecated)
 UID:python3.15.0alpha6@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230806
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 candidate 1
+SUMMARY:Python 3.12.0 candidate 1 (this calendar URL is deprecated)
 UID:python3.12.0candidate1@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220114
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.10 final
+SUMMARY:Python 3.9.10 final (this calendar URL is deprecated)
 UID:python3.9.10final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200217
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.2 candidate 2
+SUMMARY:Python 3.8.2 candidate 2 (this calendar URL is deprecated)
 UID:python3.8.2candidate2@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230110
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 alpha 4
+SUMMARY:Python 3.12.0 alpha 4 (this calendar URL is deprecated)
 UID:python3.12.0alpha4@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220601
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 beta 3
+SUMMARY:Python 3.11.0 beta 3 (this calendar URL is deprecated)
 UID:python3.11.0beta3@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.15
+SUMMARY:Python 3.11.15 (this calendar URL is deprecated)
 UID:python3.11.15@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221206
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.1
+SUMMARY:Python 3.11.1 (this calendar URL is deprecated)
 UID:python3.11.1@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230824
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.18 final
+SUMMARY:Python 3.8.18 final (this calendar URL is deprecated)
 UID:python3.8.18final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250204
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.9
+SUMMARY:Python 3.12.9 (this calendar URL is deprecated)
 UID:python3.12.9@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270504
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 beta 1
+SUMMARY:Python 3.16.0 beta 1 (this calendar URL is deprecated)
 UID:python3.16.0beta1@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 final
+SUMMARY:Python 3.15.0 final (this calendar URL is deprecated)
 UID:python3.15.0final@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200703
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 beta 4
+SUMMARY:Python 3.9.0 beta 4 (this calendar URL is deprecated)
 UID:python3.9.0beta4@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.19
+SUMMARY:Python 3.10.19 (this calendar URL is deprecated)
 UID:python3.10.19@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221011
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.15 final
+SUMMARY:Python 3.7.15 final (this calendar URL is deprecated)
 UID:python3.7.15final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200404
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 2.7.18 candidate 1
+SUMMARY:Python 2.7.18 candidate 1 (this calendar URL is deprecated)
 UID:python2.7.18candidate1@python.org
 URL:https://peps.python.org/pep-0373/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220906
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.7
+SUMMARY:Python 3.10.7 (this calendar URL is deprecated)
 UID:python3.10.7@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210402
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.9 final
+SUMMARY:Python 3.8.9 final (this calendar URL is deprecated)
 UID:python3.8.9final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261013
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 alpha 1
+SUMMARY:Python 3.16.0 alpha 1 (this calendar URL is deprecated)
 UID:python3.16.0alpha1@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.10
+SUMMARY:Python 3.12.10 (this calendar URL is deprecated)
 UID:python3.12.10@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210503
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.5 final
+SUMMARY:Python 3.9.5 final (this calendar URL is deprecated)
 UID:python3.9.5final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200817
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.6.12 final
+SUMMARY:Python 3.6.12 final (this calendar URL is deprecated)
 UID:python3.6.12final@python.org
 URL:https://peps.python.org/pep-0494/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250204
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.2
+SUMMARY:Python 3.13.2 (this calendar URL is deprecated)
 UID:python3.13.2@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 alpha 5
+SUMMARY:Python 3.15.0 alpha 5 (this calendar URL is deprecated)
 UID:python3.15.0alpha5@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250708
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 beta 4
+SUMMARY:Python 3.14.0 beta 4 (this calendar URL is deprecated)
 UID:python3.14.0beta4@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200210
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.2 candidate 1
+SUMMARY:Python 3.8.2 candidate 1 (this calendar URL is deprecated)
 UID:python3.8.2candidate1@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221206
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 alpha 3
+SUMMARY:Python 3.12.0 alpha 3 (this calendar URL is deprecated)
 UID:python3.12.0alpha3@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.14
+SUMMARY:Python 3.11.14 (this calendar URL is deprecated)
 UID:python3.11.14@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220531
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 beta 2
+SUMMARY:Python 3.11.0 beta 2 (this calendar URL is deprecated)
 UID:python3.11.0beta2@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241203
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.8
+SUMMARY:Python 3.12.8 (this calendar URL is deprecated)
 UID:python3.12.8@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220405
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 alpha 7
+SUMMARY:Python 3.11.0 alpha 7 (this calendar URL is deprecated)
 UID:python3.11.0alpha7@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220316
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.11 final
+SUMMARY:Python 3.9.11 final (this calendar URL is deprecated)
 UID:python3.9.11final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200609
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 beta 3
+SUMMARY:Python 3.9.0 beta 3 (this calendar URL is deprecated)
 UID:python3.9.0beta3@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250603
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.18
+SUMMARY:Python 3.10.18 (this calendar URL is deprecated)
 UID:python3.10.18@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240319
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.19 final
+SUMMARY:Python 3.8.19 final (this calendar URL is deprecated)
 UID:python3.8.19final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220802
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.6
+SUMMARY:Python 3.10.6 (this calendar URL is deprecated)
 UID:python3.10.6@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221206
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.16 final
+SUMMARY:Python 3.7.16 final (this calendar URL is deprecated)
 UID:python3.7.16final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191211
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.6.10 candidate 1
+SUMMARY:Python 3.6.10 candidate 1 (this calendar URL is deprecated)
 UID:python3.6.10candidate1@python.org
 URL:https://peps.python.org/pep-0494/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241203
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.1
+SUMMARY:Python 3.13.1 (this calendar URL is deprecated)
 UID:python3.13.1@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191019
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 2.7.17 final
+SUMMARY:Python 2.7.17 final (this calendar URL is deprecated)
 UID:python2.7.17final@python.org
 URL:https://peps.python.org/pep-0373/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261201
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.9
+SUMMARY:Python 3.14.9 (this calendar URL is deprecated)
 UID:python3.14.9@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260113
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 alpha 4
+SUMMARY:Python 3.15.0 alpha 4 (this calendar URL is deprecated)
 UID:python3.15.0alpha4@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250617
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 beta 3
+SUMMARY:Python 3.14.0 beta 3 (this calendar URL is deprecated)
 UID:python3.14.0beta3@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221114
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 alpha 2
+SUMMARY:Python 3.12.0 alpha 2 (this calendar URL is deprecated)
 UID:python3.12.0alpha2@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250603
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.13
+SUMMARY:Python 3.11.13 (this calendar URL is deprecated)
 UID:python3.11.13@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220508
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 beta 1
+SUMMARY:Python 3.11.0 beta 1 (this calendar URL is deprecated)
 UID:python3.11.0beta1@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211004
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 final
+SUMMARY:Python 3.10.0 final (this calendar URL is deprecated)
 UID:python3.10.0final@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210628
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.6 final
+SUMMARY:Python 3.9.6 final (this calendar URL is deprecated)
 UID:python3.9.6final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250918
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 candidate 3
+SUMMARY:Python 3.14.0 candidate 3 (this calendar URL is deprecated)
 UID:python3.14.0candidate3@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241001
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.7
+SUMMARY:Python 3.12.7 (this calendar URL is deprecated)
 UID:python3.12.7@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220307
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 alpha 6
+SUMMARY:Python 3.11.0 alpha 6 (this calendar URL is deprecated)
 UID:python3.11.0alpha6@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210215
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.6.13 final
+SUMMARY:Python 3.6.13 final (this calendar URL is deprecated)
 UID:python3.6.13final@python.org
 URL:https://peps.python.org/pep-0494/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200429
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.3 candidate 1
+SUMMARY:Python 3.8.3 candidate 1 (this calendar URL is deprecated)
 UID:python3.8.3candidate1@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200905
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.5.10 final
+SUMMARY:Python 3.5.10 final (this calendar URL is deprecated)
 UID:python3.5.10final@python.org
 URL:https://peps.python.org/pep-0478/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271005
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.14
+SUMMARY:Python 3.14.14 (this calendar URL is deprecated)
 UID:python3.14.14@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.17
+SUMMARY:Python 3.10.17 (this calendar URL is deprecated)
 UID:python3.10.17@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220606
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.5
+SUMMARY:Python 3.10.5 (this calendar URL is deprecated)
 UID:python3.10.5@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220323
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.12 final
+SUMMARY:Python 3.9.12 final (this calendar URL is deprecated)
 UID:python3.9.12final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251216
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 alpha 3
+SUMMARY:Python 3.15.0 alpha 3 (this calendar URL is deprecated)
 UID:python3.15.0alpha3@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.8
+SUMMARY:Python 3.14.8 (this calendar URL is deprecated)
 UID:python3.14.8@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250526
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 beta 2
+SUMMARY:Python 3.14.0 beta 2 (this calendar URL is deprecated)
 UID:python3.14.0beta2@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221024
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 alpha 1
+SUMMARY:Python 3.12.0 alpha 1 (this calendar URL is deprecated)
 UID:python3.12.0alpha1@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230606
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.17 final
+SUMMARY:Python 3.7.17 final (this calendar URL is deprecated)
 UID:python3.7.17final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 alpha 7
+SUMMARY:Python 3.14.0 alpha 7 (this calendar URL is deprecated)
 UID:python3.14.0alpha7@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.12
+SUMMARY:Python 3.11.12 (this calendar URL is deprecated)
 UID:python3.11.12@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200821
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.5.10 candidate 1
+SUMMARY:Python 3.5.10 candidate 1 (this calendar URL is deprecated)
 UID:python3.5.10candidate1@python.org
 URL:https://peps.python.org/pep-0478/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250814
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 candidate 2
+SUMMARY:Python 3.14.0 candidate 2 (this calendar URL is deprecated)
 UID:python3.14.0candidate2@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240906
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.6
+SUMMARY:Python 3.12.6 (this calendar URL is deprecated)
 UID:python3.12.6@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200615
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.6.11 candidate 1
+SUMMARY:Python 3.6.11 candidate 1 (this calendar URL is deprecated)
 UID:python3.6.11candidate1@python.org
 URL:https://peps.python.org/pep-0494/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220203
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 alpha 5
+SUMMARY:Python 3.11.0 alpha 5 (this calendar URL is deprecated)
 UID:python3.11.0alpha5@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200518
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 beta 1
+SUMMARY:Python 3.9.0 beta 1 (this calendar URL is deprecated)
 UID:python3.9.0beta1@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200420
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 2.7.18 final
+SUMMARY:Python 2.7.18 final (this calendar URL is deprecated)
 UID:python2.7.18final@python.org
 URL:https://peps.python.org/pep-0373/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210830
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.7 final
+SUMMARY:Python 3.9.7 final (this calendar URL is deprecated)
 UID:python3.9.7final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210628
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.6.14 final
+SUMMARY:Python 3.6.14 final (this calendar URL is deprecated)
 UID:python3.6.14final@python.org
 URL:https://peps.python.org/pep-0494/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270803
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.13
+SUMMARY:Python 3.14.13 (this calendar URL is deprecated)
 UID:python3.14.13@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191014
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.0 final
+SUMMARY:Python 3.8.0 final (this calendar URL is deprecated)
 UID:python3.8.0final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241203
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.16
+SUMMARY:Python 3.10.16 (this calendar URL is deprecated)
 UID:python3.10.16@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200630
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.4 candidate 1
+SUMMARY:Python 3.8.4 candidate 1 (this calendar URL is deprecated)
 UID:python3.8.4candidate1@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220324
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.4
+SUMMARY:Python 3.10.4 (this calendar URL is deprecated)
 UID:python3.10.4@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.7
+SUMMARY:Python 3.14.7 (this calendar URL is deprecated)
 UID:python3.14.7@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251119
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 alpha 2
+SUMMARY:Python 3.15.0 alpha 2 (this calendar URL is deprecated)
 UID:python3.15.0alpha2@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250507
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 beta 1
+SUMMARY:Python 3.14.0 beta 1 (this calendar URL is deprecated)
 UID:python3.14.0beta1@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241007
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 final
+SUMMARY:Python 3.13.0 final (this calendar URL is deprecated)
 UID:python3.13.0final@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220912
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 candidate 2
+SUMMARY:Python 3.11.0 candidate 2 (this calendar URL is deprecated)
 UID:python3.11.0candidate2@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220517
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.13 final
+SUMMARY:Python 3.9.13 final (this calendar URL is deprecated)
 UID:python3.9.13final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250314
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 alpha 6
+SUMMARY:Python 3.14.0 alpha 6 (this calendar URL is deprecated)
 UID:python3.14.0alpha6@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241203
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.11
+SUMMARY:Python 3.11.11 (this calendar URL is deprecated)
 UID:python3.11.11@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250722
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 candidate 1
+SUMMARY:Python 3.14.0 candidate 1 (this calendar URL is deprecated)
 UID:python3.14.0candidate1@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210503
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.10 final
+SUMMARY:Python 3.8.10 final (this calendar URL is deprecated)
 UID:python3.8.10final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240806
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.5
+SUMMARY:Python 3.12.5 (this calendar URL is deprecated)
 UID:python3.12.5@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220114
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 alpha 4
+SUMMARY:Python 3.11.0 alpha 4 (this calendar URL is deprecated)
 UID:python3.11.0alpha4@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191015
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.5 final
+SUMMARY:Python 3.7.5 final (this calendar URL is deprecated)
 UID:python3.7.5final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270601
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.12
+SUMMARY:Python 3.14.12 (this calendar URL is deprecated)
 UID:python3.14.12@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240906
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.20 final
+SUMMARY:Python 3.9.20 final (this calendar URL is deprecated)
 UID:python3.9.20final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240907
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.15
+SUMMARY:Python 3.10.15 (this calendar URL is deprecated)
 UID:python3.10.15@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230711
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 beta 4
+SUMMARY:Python 3.12.0 beta 4 (this calendar URL is deprecated)
 UID:python3.12.0beta4@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220316
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.3
+SUMMARY:Python 3.10.3 (this calendar URL is deprecated)
 UID:python3.10.3@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191218
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.1 final
+SUMMARY:Python 3.8.1 final (this calendar URL is deprecated)
 UID:python3.8.1final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211105
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.8 final
+SUMMARY:Python 3.9.8 final (this calendar URL is deprecated)
 UID:python3.9.8final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210904
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.6.15 final
+SUMMARY:Python 3.6.15 final (this calendar URL is deprecated)
 UID:python3.6.15final@python.org
 URL:https://peps.python.org/pep-0494/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.16
+SUMMARY:Python 3.13.16 (this calendar URL is deprecated)
 UID:python3.13.16@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260610
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.6
+SUMMARY:Python 3.14.6 (this calendar URL is deprecated)
 UID:python3.14.6@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251014
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 alpha 1
+SUMMARY:Python 3.15.0 alpha 1 (this calendar URL is deprecated)
 UID:python3.15.0alpha1@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220808
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 candidate 1
+SUMMARY:Python 3.11.0 candidate 1 (this calendar URL is deprecated)
 UID:python3.11.0candidate1@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240907
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.10
+SUMMARY:Python 3.11.10 (this calendar URL is deprecated)
 UID:python3.11.10@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250211
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 alpha 5
+SUMMARY:Python 3.14.0 alpha 5 (this calendar URL is deprecated)
 UID:python3.14.0alpha5@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220906
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.14 final
+SUMMARY:Python 3.9.14 final (this calendar URL is deprecated)
 UID:python3.9.14final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240606
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.4
+SUMMARY:Python 3.12.4 (this calendar URL is deprecated)
 UID:python3.12.4@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211208
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 alpha 3
+SUMMARY:Python 3.11.0 alpha 3 (this calendar URL is deprecated)
 UID:python3.11.0alpha3@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270406
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.11
+SUMMARY:Python 3.14.11 (this calendar URL is deprecated)
 UID:python3.14.11@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240319
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.14
+SUMMARY:Python 3.10.14 (this calendar URL is deprecated)
 UID:python3.10.14@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230619
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 beta 3
+SUMMARY:Python 3.12.0 beta 3 (this calendar URL is deprecated)
 UID:python3.12.0beta3@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210628
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.11 final
+SUMMARY:Python 3.8.11 final (this calendar URL is deprecated)
 UID:python3.8.11final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220114
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.2
+SUMMARY:Python 3.10.2 (this calendar URL is deprecated)
 UID:python3.10.2@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210406
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 alpha 7
+SUMMARY:Python 3.10.0 alpha 7 (this calendar URL is deprecated)
 UID:python3.10.0alpha7@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200428
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 alpha 6
+SUMMARY:Python 3.9.0 alpha 6 (this calendar URL is deprecated)
 UID:python3.9.0alpha6@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191218
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.6 final
+SUMMARY:Python 3.7.6 final (this calendar URL is deprecated)
 UID:python3.7.6final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271005
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 final
+SUMMARY:Python 3.16.0 final (this calendar URL is deprecated)
 UID:python3.16.0final@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.15
+SUMMARY:Python 3.13.15 (this calendar URL is deprecated)
 UID:python3.13.15@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241203
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.21 final
+SUMMARY:Python 3.9.21 final (this calendar URL is deprecated)
 UID:python3.9.21final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200224
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.2 final
+SUMMARY:Python 3.8.2 final (this calendar URL is deprecated)
 UID:python3.8.2final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260510
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.5
+SUMMARY:Python 3.14.5 (this calendar URL is deprecated)
 UID:python3.14.5@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211115
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.9 final
+SUMMARY:Python 3.9.9 final (this calendar URL is deprecated)
 UID:python3.9.9final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250114
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 alpha 4
+SUMMARY:Python 3.14.0 alpha 4 (this calendar URL is deprecated)
 UID:python3.14.0alpha4@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200908
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.6 candidate 1
+SUMMARY:Python 3.8.6 candidate 1 (this calendar URL is deprecated)
 UID:python3.8.6candidate1@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240409
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.3
+SUMMARY:Python 3.12.3 (this calendar URL is deprecated)
 UID:python3.12.3@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211102
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 alpha 2
+SUMMARY:Python 3.11.0 alpha 2 (this calendar URL is deprecated)
 UID:python3.11.0alpha2@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260718
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 beta 4
+SUMMARY:Python 3.15.0 beta 4 (this calendar URL is deprecated)
 UID:python3.15.0beta4@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270202
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.10
+SUMMARY:Python 3.14.10 (this calendar URL is deprecated)
 UID:python3.14.10@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230824
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.13
+SUMMARY:Python 3.10.13 (this calendar URL is deprecated)
 UID:python3.10.13@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210301
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 alpha 6
+SUMMARY:Python 3.10.0 alpha 6 (this calendar URL is deprecated)
 UID:python3.10.0alpha6@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230606
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 beta 2
+SUMMARY:Python 3.12.0 beta 2 (this calendar URL is deprecated)
 UID:python3.12.0beta2@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221011
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.15 final
+SUMMARY:Python 3.9.15 final (this calendar URL is deprecated)
 UID:python3.9.15final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211206
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.1
+SUMMARY:Python 3.10.1 (this calendar URL is deprecated)
 UID:python3.10.1@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200323
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 alpha 5
+SUMMARY:Python 3.9.0 alpha 5 (this calendar URL is deprecated)
 UID:python3.9.0alpha5@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240402
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.9
+SUMMARY:Python 3.11.9 (this calendar URL is deprecated)
 UID:python3.11.9@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260610
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.14
+SUMMARY:Python 3.13.14 (this calendar URL is deprecated)
 UID:python3.13.14@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210830
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.12 final
+SUMMARY:Python 3.8.12 final (this calendar URL is deprecated)
 UID:python3.8.12final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200917
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 candidate 2
+SUMMARY:Python 3.9.0 candidate 2 (this calendar URL is deprecated)
 UID:python3.9.0candidate2@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260407
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.4
+SUMMARY:Python 3.14.4 (this calendar URL is deprecated)
 UID:python3.14.4@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.22
+SUMMARY:Python 3.10.22 (this calendar URL is deprecated)
 UID:python3.10.22@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200310
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.7 final
+SUMMARY:Python 3.7.7 final (this calendar URL is deprecated)
 UID:python3.7.7final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.22 final
+SUMMARY:Python 3.9.22 final (this calendar URL is deprecated)
 UID:python3.9.22final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241217
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 alpha 3
+SUMMARY:Python 3.14.0 alpha 3 (this calendar URL is deprecated)
 UID:python3.14.0alpha3@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200513
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.3 final
+SUMMARY:Python 3.8.3 final (this calendar URL is deprecated)
 UID:python3.8.3final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240206
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.2
+SUMMARY:Python 3.12.2 (this calendar URL is deprecated)
 UID:python3.12.2@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241001
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 candidate 3
+SUMMARY:Python 3.13.0 candidate 3 (this calendar URL is deprecated)
 UID:python3.13.0candidate3@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211005
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 alpha 1
+SUMMARY:Python 3.11.0 alpha 1 (this calendar URL is deprecated)
 UID:python3.11.0alpha1@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 beta 3
+SUMMARY:Python 3.15.0 beta 3 (this calendar URL is deprecated)
 UID:python3.15.0beta3@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201207
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.7 candidate 1
+SUMMARY:Python 3.8.7 candidate 1 (this calendar URL is deprecated)
 UID:python3.8.7candidate1@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270831
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 candidate 2
+SUMMARY:Python 3.16.0 candidate 2 (this calendar URL is deprecated)
 UID:python3.16.0candidate2@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230606
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.12
+SUMMARY:Python 3.10.12 (this calendar URL is deprecated)
 UID:python3.10.12@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230522
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.0 beta 1
+SUMMARY:Python 3.12.0 beta 1 (this calendar URL is deprecated)
 UID:python3.12.0beta1@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221024
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.0 final
+SUMMARY:Python 3.11.0 final (this calendar URL is deprecated)
 UID:python3.11.0final@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210203
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 alpha 5
+SUMMARY:Python 3.10.0 alpha 5 (this calendar URL is deprecated)
 UID:python3.10.0alpha5@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240206
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.8
+SUMMARY:Python 3.11.8 (this calendar URL is deprecated)
 UID:python3.11.8@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200226
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 alpha 4
+SUMMARY:Python 3.9.0 alpha 4 (this calendar URL is deprecated)
 UID:python3.9.0alpha4@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260407
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.13
+SUMMARY:Python 3.13.13 (this calendar URL is deprecated)
 UID:python3.13.13@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221206
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.16 final
+SUMMARY:Python 3.9.16 final (this calendar URL is deprecated)
 UID:python3.9.16final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200811
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 candidate 1
+SUMMARY:Python 3.9.0 candidate 1 (this calendar URL is deprecated)
 UID:python3.9.0candidate1@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.3
+SUMMARY:Python 3.14.3 (this calendar URL is deprecated)
 UID:python3.14.3@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260812
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.21
+SUMMARY:Python 3.10.21 (this calendar URL is deprecated)
 UID:python3.10.21@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241119
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 alpha 2
+SUMMARY:Python 3.14.0 alpha 2 (this calendar URL is deprecated)
 UID:python3.14.0alpha2@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220316
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.13 final
+SUMMARY:Python 3.8.13 final (this calendar URL is deprecated)
 UID:python3.8.13final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210710
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 beta 4
+SUMMARY:Python 3.10.0 beta 4 (this calendar URL is deprecated)
 UID:python3.10.0beta4@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231207
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.1
+SUMMARY:Python 3.12.1 (this calendar URL is deprecated)
 UID:python3.12.1@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240906
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 candidate 2
+SUMMARY:Python 3.13.0 candidate 2 (this calendar URL is deprecated)
 UID:python3.13.0candidate2@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260602
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 beta 2
+SUMMARY:Python 3.15.0 beta 2 (this calendar URL is deprecated)
 UID:python3.15.0beta2@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251014
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.9
+SUMMARY:Python 3.13.9 (this calendar URL is deprecated)
 UID:python3.13.9@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240409
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 alpha 6
+SUMMARY:Python 3.13.0 alpha 6 (this calendar URL is deprecated)
 UID:python3.13.0alpha6@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250603
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.23 final
+SUMMARY:Python 3.9.23 final (this calendar URL is deprecated)
 UID:python3.9.23final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210215
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.10 final
+SUMMARY:Python 3.7.10 final (this calendar URL is deprecated)
 UID:python3.7.10final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200627
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.8 final
+SUMMARY:Python 3.7.8 final (this calendar URL is deprecated)
 UID:python3.7.8final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230405
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.11
+SUMMARY:Python 3.10.11 (this calendar URL is deprecated)
 UID:python3.10.11@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270727
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 candidate 1
+SUMMARY:Python 3.16.0 candidate 1 (this calendar URL is deprecated)
 UID:python3.16.0candidate1@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210104
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 alpha 4
+SUMMARY:Python 3.10.0 alpha 4 (this calendar URL is deprecated)
 UID:python3.10.0alpha4@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200713
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.4 final
+SUMMARY:Python 3.8.4 final (this calendar URL is deprecated)
 UID:python3.8.4final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200125
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 alpha 3
+SUMMARY:Python 3.9.0 alpha 3 (this calendar URL is deprecated)
 UID:python3.9.0alpha3@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231204
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.7
+SUMMARY:Python 3.11.7 (this calendar URL is deprecated)
 UID:python3.11.7@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210216
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.8 candidate 1
+SUMMARY:Python 3.8.8 candidate 1 (this calendar URL is deprecated)
 UID:python3.8.8candidate1@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191012
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.5.8 candidate 2
+SUMMARY:Python 3.5.8 candidate 2 (this calendar URL is deprecated)
 UID:python3.5.8candidate2@python.org
 URL:https://peps.python.org/pep-0478/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240906
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.20 final
+SUMMARY:Python 3.8.20 final (this calendar URL is deprecated)
 UID:python3.8.20final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201005
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 final
+SUMMARY:Python 3.9.0 final (this calendar URL is deprecated)
 UID:python3.9.0final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.12
+SUMMARY:Python 3.13.12 (this calendar URL is deprecated)
 UID:python3.13.12@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.20
+SUMMARY:Python 3.10.20 (this calendar URL is deprecated)
 UID:python3.10.20@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251205
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.2
+SUMMARY:Python 3.14.2 (this calendar URL is deprecated)
 UID:python3.14.2@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210907
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 candidate 2
+SUMMARY:Python 3.10.0 candidate 2 (this calendar URL is deprecated)
 UID:python3.10.0candidate2@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241015
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 alpha 1
+SUMMARY:Python 3.14.0 alpha 1 (this calendar URL is deprecated)
 UID:python3.14.0alpha1@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230606
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.17 final
+SUMMARY:Python 3.9.17 final (this calendar URL is deprecated)
 UID:python3.9.17final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270413
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 alpha 7
+SUMMARY:Python 3.16.0 alpha 7 (this calendar URL is deprecated)
 UID:python3.16.0alpha7@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210617
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 beta 3
+SUMMARY:Python 3.10.0 beta 3 (this calendar URL is deprecated)
 UID:python3.10.0beta3@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201124
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.1 candidate 1
+SUMMARY:Python 3.9.1 candidate 1 (this calendar URL is deprecated)
 UID:python3.9.1candidate1@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240801
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 candidate 1
+SUMMARY:Python 3.13.0 candidate 1 (this calendar URL is deprecated)
 UID:python3.13.0candidate1@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251007
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.8
+SUMMARY:Python 3.13.8 (this calendar URL is deprecated)
 UID:python3.13.8@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260507
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.15.0 beta 1
+SUMMARY:Python 3.15.0 beta 1 (this calendar URL is deprecated)
 UID:python3.15.0beta1@python.org
 URL:https://peps.python.org/pep-0790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251007
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.0 final
+SUMMARY:Python 3.14.0 final (this calendar URL is deprecated)
 UID:python3.14.0final@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240312
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 alpha 5
+SUMMARY:Python 3.13.0 alpha 5 (this calendar URL is deprecated)
 UID:python3.13.0alpha5@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220906
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.14 final
+SUMMARY:Python 3.8.14 final (this calendar URL is deprecated)
 UID:python3.8.14final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230208
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.10
+SUMMARY:Python 3.10.10 (this calendar URL is deprecated)
 UID:python3.10.10@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201207
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 alpha 3
+SUMMARY:Python 3.10.0 alpha 3 (this calendar URL is deprecated)
 UID:python3.10.0alpha3@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200817
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.9 final
+SUMMARY:Python 3.7.9 final (this calendar URL is deprecated)
 UID:python3.7.9final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231002
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.11.6
+SUMMARY:Python 3.11.6 (this calendar URL is deprecated)
 UID:python3.11.6@python.org
 URL:https://peps.python.org/pep-0664/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191218
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.0 alpha 2
+SUMMARY:Python 3.9.0 alpha 2 (this calendar URL is deprecated)
 UID:python3.9.0alpha2@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.24 final
+SUMMARY:Python 3.9.24 final (this calendar URL is deprecated)
 UID:python3.9.24final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210628
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.7.11 final
+SUMMARY:Python 3.7.11 final (this calendar URL is deprecated)
 UID:python3.7.11final@python.org
 URL:https://peps.python.org/pep-0537/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251205
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.11
+SUMMARY:Python 3.13.11 (this calendar URL is deprecated)
 UID:python3.13.11@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200720
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.8.5 final
+SUMMARY:Python 3.8.5 final (this calendar URL is deprecated)
 UID:python3.8.5final@python.org
 URL:https://peps.python.org/pep-0569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.1
+SUMMARY:Python 3.14.1 (this calendar URL is deprecated)
 UID:python3.14.1@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240718
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 beta 4
+SUMMARY:Python 3.13.0 beta 4 (this calendar URL is deprecated)
 UID:python3.13.0beta4@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201207
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.1 final
+SUMMARY:Python 3.9.1 final (this calendar URL is deprecated)
 UID:python3.9.1final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210803
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 candidate 1
+SUMMARY:Python 3.10.0 candidate 1 (this calendar URL is deprecated)
 UID:python3.10.0candidate1@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270309
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.16.0 alpha 6
+SUMMARY:Python 3.16.0 alpha 6 (this calendar URL is deprecated)
 UID:python3.16.0alpha6@python.org
 URL:https://peps.python.org/pep-0826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.12.15
+SUMMARY:Python 3.12.15 (this calendar URL is deprecated)
 UID:python3.12.15@python.org
 URL:https://peps.python.org/pep-0693/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210531
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 beta 2
+SUMMARY:Python 3.10.0 beta 2 (this calendar URL is deprecated)
 UID:python3.10.0beta2@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250814
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.7
+SUMMARY:Python 3.13.7 (this calendar URL is deprecated)
 UID:python3.13.7@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240215
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.13.0 alpha 4
+SUMMARY:Python 3.13.0 alpha 4 (this calendar URL is deprecated)
 UID:python3.13.0alpha4@python.org
 URL:https://peps.python.org/pep-0719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210216
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.2 candidate 1
+SUMMARY:Python 3.9.2 candidate 1 (this calendar URL is deprecated)
 UID:python3.9.2candidate1@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230824
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.9.18 final
+SUMMARY:Python 3.9.18 final (this calendar URL is deprecated)
 UID:python3.9.18final@python.org
 URL:https://peps.python.org/pep-0596/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201103
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.10.0 alpha 2
+SUMMARY:Python 3.10.0 alpha 2 (this calendar URL is deprecated)
 UID:python3.10.0alpha2@python.org
 URL:https://peps.python.org/pep-0619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260504
-DTSTAMP:20261003T181948Z
+DTSTAMP:20261009T143905Z
 DESCRIPTION:DEPRECATED: Use https://peps.python.org/release-schedule.ics instead
-SUMMARY:Python 3.14.5 candidate 1
+SUMMARY:Python 3.14.5 candidate 1 (this calendar URL is deprecated)
 UID:python3.14.5candidate1@python.org
 URL:https://peps.python.org/pep-0745/
 END:VEVENT
